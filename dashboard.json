@@ -27,29 +27,29 @@
         "customer_name": "PT. Malas Bangun",
         "pic": "Chanidapa Pongsilpipat",
         "create_on": "2024-06-15",
-        "status": "Close"
+        "status": "Contacted"
       },
       {
         "customer_name": "PT. Malas Bangun",
         "pic": "Chanidapa Pongsilpipat",
         "create_on": "2024-06-15",
+        "status": "Open"
+      },
+      {
+        "customer_name": "PT. Susah Jongkok, Tbk",
+        "pic": "Hanachewa Phrajarachuit",
+        "create_on": "2024-06-11",
         "status": "Close"
       },
       {
-        "customer_name": "PT. Malas Bangun",
-        "pic": "Chanidapa Pongsilpipat",
-        "create_on": "2024-06-15",
-        "status": "Close"
-      },
-      {
-        "customer_name": "PT. Mundur Terus",
-        "pic": "Bongkot Kongmalai",
+        "customer_name": "PT. Kapan Untung, Tbk",
+        "pic": "Rachaduri Saramithachu",
         "create_on": "2024-06-26",
         "status": "Open"
       },
       {
-        "customer_name": "PT. Salah Nawar",
-        "pic": "Namthip Jongrachatawiboon",
+        "customer_name": "PT. Tak Mau Rugi, Tbk",
+        "pic": "Patcharapon Rancanjuith",
         "create_on": "2024-06-08",
         "status": "Contacted"
       }
@@ -76,22 +76,22 @@
     ],
     "event": [
       {
-        "project_name": "Kapan Aku Punya Sayap?",
-        "pic": "Nuttanicha Dungwattanawanich",
-        "create_on": "2024-06-20",
-        "progress": "31%"
+        "purpose": "Pengenalan Product Baru",
+        "company": "PT. Tiada Hari Libur Tbk",
+        "start": "2024-06-20",
+        "status": "Done"
       },
       {
-        "project_name": "Lupa Jalan Pulang",
-        "pic": "Pumwaree Yodkamol",
-        "create_on": "2024-06-16",
-        "progress": "20%"
+        "purpose": "Tapi Aku Punya Saiful",
+        "company": "PT. Gudang Gula Jaya Tbk",
+        "start": "2024-06-25",
+        "status": "Open"
       },
       {
-        "project_name": "Salah Panggil Nama",
-        "pic": "Sananthachat Thanapatpisal",
-        "create_on": "2024-06-29",
-        "progress": "90%"
+        "purpose": "Strategi Pemasaran di Wilayah Asean",
+        "company": "PT. Sabtu Minggu Masuk Tbk",
+        "start": "2024-06-17",
+        "status": "Done"
       }
     ]
   }
