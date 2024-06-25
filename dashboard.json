@@ -3,10 +3,10 @@
   "data": {
     "sales_overview": {
       "total_customer": 1203,
-      "total_profit": 10768653,
+      "total_profit": 1075868653,
       "lead": 397,
-      "total_sales": 290065765,
-      "total_transaction": 1249
+      "total_sales": 29043065765,
+      "total_transaction": 1208749
     },
     "ticketing": [
       {
