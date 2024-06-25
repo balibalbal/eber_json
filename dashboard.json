@@ -1,0 +1,25 @@
+{
+  "message": "Success Get Dashboard Data",
+  "data": {
+    "sales_overview": {
+      "total_customer": 1203,
+      "total_profit": 100,
+      "total_sales": 2900657,
+      "total_transaction": 1249
+    },
+    "ticketing": [
+      {
+        "name": "uye",
+        "total_profit": 100,
+        "total_sales": 2900657,
+        "total_transaction": 1249
+      },
+      {
+        "name": "yihaa",
+        "total_profit": 100,
+        "total_sales": 2900657,
+        "total_transaction": 1249
+      }
+    ]
+  }
+}
