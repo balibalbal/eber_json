@@ -30,6 +30,18 @@
         "status": "Close"
       },
       {
+        "customer_name": "PT. Malas Bangun",
+        "pic": "Chanidapa Pongsilpipat",
+        "create_on": "2024-06-15",
+        "status": "Close"
+      },
+      {
+        "customer_name": "PT. Malas Bangun",
+        "pic": "Chanidapa Pongsilpipat",
+        "create_on": "2024-06-15",
+        "status": "Close"
+      },
+      {
         "customer_name": "PT. Mundur Terus",
         "pic": "Bongkot Kongmalai",
         "create_on": "2024-06-26",
@@ -43,6 +55,26 @@
       }
     ],
     "projects": [
+      {
+        "project_name": "Kapan Aku Punya Sayap?",
+        "pic": "Nuttanicha Dungwattanawanich",
+        "create_on": "2024-06-20",
+        "progress": "31%"
+      },
+      {
+        "project_name": "Lupa Jalan Pulang",
+        "pic": "Pumwaree Yodkamol",
+        "create_on": "2024-06-16",
+        "progress": "20%"
+      },
+      {
+        "project_name": "Salah Panggil Nama",
+        "pic": "Sananthachat Thanapatpisal",
+        "create_on": "2024-06-29",
+        "progress": "90%"
+      }
+    ],
+    "event": [
       {
         "project_name": "Kapan Aku Punya Sayap?",
         "pic": "Nuttanicha Dungwattanawanich",
