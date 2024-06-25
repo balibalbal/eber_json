@@ -3,7 +3,7 @@
   "data": {
     "sales_overview": {
       "total_customer": 1203,
-      "total_profit": 100768653,
+      "total_profit": 10768653,
       "lead": 397,
       "total_sales": 290065765,
       "total_transaction": 1249
@@ -20,6 +20,46 @@
         "total_profit": 100,
         "total_sales": 2900657,
         "total_transaction": 1249
+      }
+    ],
+    "leads": [
+      {
+        "customer_name": "PT. Malas Bangun",
+        "pic": "Chanidapa Pongsilpipat",
+        "create_on": "2024-06-15",
+        "status": "Close"
+      },
+      {
+        "customer_name": "PT. Mundur Terus",
+        "pic": "Bongkot Kongmalai",
+        "create_on": "2024-06-26",
+        "status": "Open"
+      },
+      {
+        "customer_name": "PT. Salah Nawar",
+        "pic": "Namthip Jongrachatawiboon",
+        "create_on": "2024-06-08",
+        "status": "Contacted"
+      }
+    ],
+    "projects": [
+      {
+        "project_name": "Kapan Aku Punya Sayap?",
+        "pic": "Nuttanicha Dungwattanawanich",
+        "create_on": "2024-06-20",
+        "progress": "31%"
+      },
+      {
+        "project_name": "Lupa Jalan Pulang",
+        "pic": "Pumwaree Yodkamol",
+        "create_on": "2024-06-16",
+        "progress": "20%"
+      },
+      {
+        "project_name": "Salah Panggil Nama",
+        "pic": "Sananthachat Thanapatpisal",
+        "create_on": "2024-06-29",
+        "progress": "90%"
       }
     ]
   }
