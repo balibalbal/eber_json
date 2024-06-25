@@ -4,6 +4,7 @@
     "sales_overview": {
       "total_customer": 1203,
       "total_profit": 100,
+      "lead": 397,
       "total_sales": 2900657,
       "total_transaction": 1249
     },
