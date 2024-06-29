@@ -151,42 +151,114 @@
     "project_statistic": [
       {
         "month": "Mei",
-        "values": {
-          "stage_1": 13,
-          "stage_2": 16,
-          "stage_3": 39,
-          "stage_4": 76,
-          "stage_5": 55,
-          "stage_6": 19,
-          "stage_7": 48,
-          "stage_8": 25
-        }
+        "stage": [
+          {
+            "name": "None(0%)",
+            "value": 100
+          },
+          {
+            "name": "Opportunity Scouting (25%)",
+            "value": 120
+          },
+          {
+            "name": "Solution Setup (50%)",
+            "value": 90
+          },
+          {
+            "name": "Negotiation Of Deal (75%)",
+            "value": 150
+          },
+          {
+            "name": "Order Processing(90%)",
+            "value": 134
+          },
+          {
+            "name": "Closed Won (100%)",
+            "value": 90
+          },
+          {
+            "name": "Closed Lose (0%)",
+            "value": 110
+          },
+          {
+            "name": "Canceled (0%)",
+            "value": 130
+          }
+        ]
       },
       {
         "month": "Juni",
-        "values": {
-          "stage_1": 21,
-          "stage_2": 29,
-          "stage_3": 40,
-          "stage_4": 80,
-          "stage_5": 50,
-          "stage_6": 39,
-          "stage_7": 38,
-          "stage_8": 25
-        }
+        "stage": [
+          {
+            "name": "None(0%)",
+            "value": 100
+          },
+          {
+            "name": "Opportunity Scouting (25%)",
+            "value": 120
+          },
+          {
+            "name": "Solution Setup (50%)",
+            "value": 90
+          },
+          {
+            "name": "Negotiation Of Deal (75%)",
+            "value": 150
+          },
+          {
+            "name": "Order Processing(90%)",
+            "value": 134
+          },
+          {
+            "name": "Closed Won (100%)",
+            "value": 90
+          },
+          {
+            "name": "Closed Lose (0%)",
+            "value": 110
+          },
+          {
+            "name": "Canceled (0%)",
+            "value": 130
+          }
+        ]
       },
       {
         "month": "July",
-        "values": {
-          "stage_1": 40,
-          "stage_2": 39,
-          "stage_3": 38,
-          "stage_4": 50,
-          "stage_5": 19,
-          "stage_6": 19,
-          "stage_7": 58,
-          "stage_8": 45
-        }
+        "stage": [
+          {
+            "name": "None(0%)",
+            "value": 100
+          },
+          {
+            "name": "Opportunity Scouting (25%)",
+            "value": 120
+          },
+          {
+            "name": "Solution Setup (50%)",
+            "value": 90
+          },
+          {
+            "name": "Negotiation Of Deal (75%)",
+            "value": 150
+          },
+          {
+            "name": "Order Processing(90%)",
+            "value": 134
+          },
+          {
+            "name": "Closed Won (100%)",
+            "value": 90
+          },
+          {
+            "name": "Closed Lose (0%)",
+            "value": 110
+          },
+          {
+            "name": "Canceled (0%)",
+            "value": 130
+          }
+        ]
       }
     ]
   }
