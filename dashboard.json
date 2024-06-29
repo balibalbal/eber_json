@@ -191,35 +191,35 @@
         "stage": [
           {
             "name": "None(0%)",
-            "value": 100
+            "value": 140
           },
           {
             "name": "Opportunity Scouting (25%)",
-            "value": 120
-          },
-          {
-            "name": "Solution Setup (50%)",
-            "value": 90
-          },
-          {
-            "name": "Negotiation Of Deal (75%)",
-            "value": 150
-          },
-          {
-            "name": "Order Processing(90%)",
-            "value": 134
-          },
-          {
-            "name": "Closed Won (100%)",
-            "value": 90
-          },
-          {
-            "name": "Closed Lose (0%)",
             "value": 110
           },
           {
+            "name": "Solution Setup (50%)",
+            "value": 19
+          },
+          {
+            "name": "Negotiation Of Deal (75%)",
+            "value": 129
+          },
+          {
+            "name": "Order Processing(90%)",
+            "value": 154
+          },
+          {
+            "name": "Closed Won (100%)",
+            "value": 190
+          },
+          {
+            "name": "Closed Lose (0%)",
+            "value": 122
+          },
+          {
             "name": "Canceled (0%)",
-            "value": 130
+            "value": 145
           }
         ]
       },
@@ -228,35 +228,35 @@
         "stage": [
           {
             "name": "None(0%)",
-            "value": 100
-          },
-          {
-            "name": "Opportunity Scouting (25%)",
             "value": 120
           },
           {
+            "name": "Opportunity Scouting (25%)",
+            "value": 100
+          },
+          {
             "name": "Solution Setup (50%)",
-            "value": 90
+            "value": 180
           },
           {
             "name": "Negotiation Of Deal (75%)",
-            "value": 150
+            "value": 190
           },
           {
             "name": "Order Processing(90%)",
-            "value": 134
+            "value": 114
           },
           {
             "name": "Closed Won (100%)",
-            "value": 90
+            "value": 80
           },
           {
             "name": "Closed Lose (0%)",
-            "value": 110
+            "value": 100
           },
           {
             "name": "Canceled (0%)",
-            "value": 130
+            "value": 140
           }
         ]
       }
