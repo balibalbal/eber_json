@@ -103,6 +103,33 @@
         "status": "Done"
       }
     ],
+    "top_products": [
+      {
+        "product_name": "Baygon",
+        "price": 20000,
+        "sold": 900
+      },
+      {
+        "product_name": "Autan",
+        "price": 60000,
+        "sold": 90000
+      },
+      {
+        "product_name": "Hitz",
+        "price": 900000,
+        "sold": 8000
+      },
+      {
+        "product_name": "Tiga Roda",
+        "price": 98000,
+        "sold": 700
+      },
+      {
+        "product_name": "Segar Sari",
+        "price": 20000,
+        "sold": 40000
+      }
+    ],
     "sample_request": {
       "sample_sent": 20,
       "waiting_approval": 60,
