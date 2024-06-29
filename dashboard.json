@@ -112,22 +112,22 @@
       {
         "product_name": "Autan",
         "price": 60000,
-        "sold": 90000
+        "sold": 800
       },
       {
         "product_name": "Hitz",
-        "price": 900000,
-        "sold": 8000
+        "price": 90000,
+        "sold": 700
       },
       {
         "product_name": "Tiga Roda",
         "price": 98000,
-        "sold": 700
+        "sold": 600
       },
       {
         "product_name": "Segar Sari",
         "price": 20000,
-        "sold": 40000
+        "sold": 650
       }
     ],
     "sample_request": {
