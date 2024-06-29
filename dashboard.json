@@ -33,54 +33,54 @@
     ],
     "leads": [
       {
-        "customer_name": "PT. Terbang Tanpa Sayap, Tbk",
+        "company_name": "PT. Terbang Tanpa Sayap, Tbk",
         "pic": "Phoncarayu Tannapon",
         "create_on": "2024-06-15",
-        "status": "Contacted"
+        "status_leads": "Contacted"
       },
       {
-        "customer_name": "PT. Malas Bangun, Tbk",
+        "company_name": "PT. Malas Bangun, Tbk",
         "pic": "Chanidapa Pongsilpipat",
         "create_on": "2024-06-15",
-        "status": "Open"
+        "status_leads": "Open"
       },
       {
-        "customer_name": "PT. Susah Jongkok, Tbk",
+        "company_name": "PT. Susah Jongkok, Tbk",
         "pic": "Hanachewa Phrajarachuit",
         "create_on": "2024-06-11",
-        "status": "Close"
+        "status_leads": "Close"
       },
       {
-        "customer_name": "PT. Kapan Untung, Tbk",
+        "company_name": "PT. Kapan Untung, Tbk",
         "pic": "Rachaduri Saramithachu",
         "create_on": "2024-06-26",
-        "status": "Open"
+        "status_leads": "Open"
       },
       {
-        "customer_name": "PT. Tak Mau Rugi, Tbk",
+        "company_name": "PT. Tak Mau Rugi, Tbk",
         "pic": "Patcharapon Rancanjuith",
         "create_on": "2024-06-08",
-        "status": "Contacted"
+        "status_leads": "Contacted"
       }
     ],
     "projects": [
       {
-        "project_name": "Kapan Aku Punya Sayap?",
-        "pic": "Nuttanicha Dungwattanawanich",
-        "create_on": "2024-06-20",
-        "progress": "31%"
+        "company_name": "Kapan Aku Punya Sayap?",
+        "contact_name": "Nuttanicha Dungwattanawanich",
+        "createdAt": "2024-06-20",
+        "staging": "31%"
       },
       {
-        "project_name": "Lupa Jalan Pulang",
-        "pic": "Pumwaree Yodkamol",
-        "create_on": "2024-06-16",
-        "progress": "20%"
+        "company_name": "Lupa Jalan Pulang",
+        "contact_name": "Pumwaree Yodkamol",
+        "createdAt": "2024-06-16",
+        "staging": "20%"
       },
       {
-        "project_name": "Salah Panggil Nama",
-        "pic": "Sananthachat Thanapatpisal",
-        "create_on": "2024-06-29",
-        "progress": "90%"
+        "company_name": "Salah Panggil Nama",
+        "contact_name": "Sananthachat Thanapatpisal",
+        "createdAt": "2024-06-29",
+        "staging": "90%"
       }
     ],
     "events": [
@@ -102,6 +102,18 @@
         "start": "2024-06-17",
         "status": "Done"
       }
-    ]
+    ],
+    "sample_request": {
+      "sample_sent": 20,
+      "waiting_approval": 60,
+      "rejected": 106,
+      "approved": 200
+    },
+    "product_improvment": {
+      "sample_sent": 20,
+      "waiting_approval": 60,
+      "rejected": 106,
+      "approved": 200
+    }
   }
 }
