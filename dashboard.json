@@ -110,10 +110,16 @@
       "approved": 200
     },
     "product_improvment": {
-      "sample_sent": 20,
-      "waiting_approval": 60,
-      "rejected": 106,
-      "approved": 200
+      "sample_sent": 200,
+      "waiting_approval": 80,
+      "rejected": 36,
+      "approved": 400
+    },
+    "return_request": {
+      "product_claimed": 120,
+      "waiting_approval": 80,
+      "rejected": 16,
+      "approved": 400
     }
   }
 }
